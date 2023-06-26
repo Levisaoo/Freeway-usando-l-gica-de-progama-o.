@@ -4,8 +4,8 @@ Esse projeto retrata ao classico FREEWAY.
 | -------------  | --- |
 | :sparkles: Nome        | **FREEWAY**
 | :label: Tecnologias | Java Script (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://editor.p5js.org/Leviz/full/z_YXuKm8F
+| :rocket: URL         | https://editor.p5js.org/Leviz/full/z_YXuKm8F
+| :fire: Desafio     |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/Levisaoo/Freeway-usando-l-gica-de-progama-o./main/Screenshot_3.png)#vitrinedev)
