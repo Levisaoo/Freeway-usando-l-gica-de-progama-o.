@@ -1,4 +1,4 @@
-# Freeway-usando-l-gica-de-progama-o.
+# Freeway usando Java Script.
 Esse projeto retrata ao classico FREEWAY.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
