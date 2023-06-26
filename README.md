@@ -12,4 +12,4 @@ Esse projeto retrata ao classico FREEWAY.
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, su
+Segue acima meu primeiro projeto
